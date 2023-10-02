@@ -45,7 +45,7 @@ tick();
 
 function Youtube() {
   setTimeout(function() {
-    window.open('https://youtube.com/@RTX_CPM?si=EP-FGg8DUU92iFnv', 'ultimate')},
+    window.open('https://youtube.com/@Ohm_Remix?si=vN32Fx8SkP7q3CGc', 'ultimate')},
   100);
 }
 function Facebook() {
@@ -60,7 +60,7 @@ function Discord() {
 }
 function Telegram() {
   setTimeout(function() {
-    window.open('https://t.me/RTXCPM', 'ultimate')},
+    window.open('https://t.me/SBTCPM', 'ultimate')},
   100);
 }
 
